@@ -46,7 +46,7 @@ public class AnuncioDAO {
         do {
             System.out.println("quantidade: ");
             quantidade = value.nextInt();
-        } while (quantidade > 0);
+        } while (quantidade <= 0);
 
         String categoria = defineCategoria(produto);
 

@@ -46,4 +46,4 @@ para a aplicação.
 Caso tenha ficado com alguma duvida pode entrar em contato comigo por aqui pelo github🐱 ou então pode assistir ao video feito que mostra sobre os topicos comentados acima, além de demonstrar
 como é o funcionamento da aplicação e algumas outras coisas, o link para o video está logo abaixo.
 
-[video sobre a aplicação]()
+[video sobre a aplicação](https://youtu.be/OV4hnFlamhs)
